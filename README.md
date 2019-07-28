@@ -14,3 +14,4 @@
   The following image is the example I was supposed to model my work after (the minimum desired result):
   
 ![](./images/4GeeksExampleOfPostcardProject.png)
+
