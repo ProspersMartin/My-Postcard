@@ -12,3 +12,5 @@
   "My-Postcard" was developed for a programming course project, using only HTML and CSS,.
 
   The following image is the example I was supposed to model my work after (the minimum desired result):
+  
+![](./images/4GeeksExampleOfPostcardProject.png)
