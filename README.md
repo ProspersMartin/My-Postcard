@@ -2,13 +2,14 @@
   Created a basic digital postcard with input fields.
 
 ## Build / Layout
-  "My-Postcard" was developed for a programming course project, using only HTML and CSS,.
-
+  "My-Postcard" was developed for a programming course project, using only HTML and CSS.
   The following image is the example I was supposed to model my work after (the minimum desired result):
+  
 ![](./images/4GeeksExampleOfPostcardProject.png)
 
 ## Final Product
   This is my version:
+  
 ![](./images/myPostcardFinalProduct.png)
 
 ## Deployment Instructions (How to Open Project Live)
